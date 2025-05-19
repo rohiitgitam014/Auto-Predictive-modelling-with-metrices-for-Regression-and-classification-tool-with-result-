@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.svm import SVC, SVR
 
 st.set_page_config(page_title="AutoML Tool", layout="wide")
-st.title("🤖 AutoML Tool for Classification & Regression")
+st.title("🤖 AutoML Tool for Regression & Classification")
 st.write("Upload a dataset and get model performance instantly!")
 
 # Upload data
